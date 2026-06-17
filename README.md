@@ -192,7 +192,6 @@ Currently deepening expertise in:
 
 </div>
 
-> Generated automatically via the [Platane/snk](https://github.com/Platane/snk) GitHub Action — set this up on your profile repo to keep it live.
 
 <br/>
 
@@ -218,9 +217,7 @@ Every project I ship is a step toward a simple long-term goal: technology that i
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/david-onuche-4b0782239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/iamdavidonuche"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="mailto:iamdavidonuche@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.instagram.com/iamdavidonuche/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://iamdavidonuche.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</p>
+<a href="https://www.linkedin.com/in/david-onuche-4b0782239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/iamdavidonuche"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="mailto:iamdavidonuche@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.instagram.com/iamdavidonuche/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a href="https://iamdavidonuche.com/"><img src="https://img.shields.io/badge/Website-153109?style=for-the-badge"/></a>
 
 </div>
 
