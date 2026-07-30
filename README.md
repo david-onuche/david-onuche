@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:153109,50:485F3A,100:7B8D6B&height=220&section=header&text=David%20Onuche&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mobile%20Engineer%20%7C%20Flutter%20and%20Kotlin%20Developer%20%7C%20Builder%20of%20Scalable%20Products&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:153109,50:485F3A,100:7B8D6B&height=220&section=header&text=David%20Onuche&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mobile%20Engineer%20%7C%20Flutter%20%7C%20Kotlin%20%7C%20Swift%20Developer%20%7C%20Builder%20of%20Scalable%20Products&descAlignY=56&descSize=18" width="100%"/>
 
 <br/>
 
@@ -43,7 +43,7 @@
 
 ##  About Me
 
-I am **David Onuche**, a Software Engineer specializing in **Mobile Application Development**. I design and ship cross-platform products with **Flutter & Firebase**, and build native **Android applications with Kotlin** — with a focus on architecture that holds up at scale, not just in a demo.
+I am **David Onuche**, a Software Engineer specializing in **Mobile Application Development**. I design and ship cross-platform products with **Flutter & Firebase**, build native **Android applications with Kotlin**, and **IOS application with Swift** — with a focus on architecture that holds up at scale, not just in a demo.
 
 Alongside engineering, I am reading for a degree in **Computer Science at the University of the People**, and operating as a **startup builder** — taking products from a blank repository to something real people depend on.
 
@@ -119,7 +119,7 @@ Vaulterr is where engineering discipline meets long-term product vision: a bet o
 
 **Mobile**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio" />
 
 **Backend & Cloud**
 
@@ -127,11 +127,11 @@ Vaulterr is where engineering discipline meets long-term product vision: a bet o
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=dart,kotlin" />
+<img src="https://skillicons.dev/icons?i=dart,kotlin,swift" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase,androidstudio,vscode,git,github,postman,figma,apple,gradle" />
 
 <br/>
 
